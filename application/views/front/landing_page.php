@@ -47,8 +47,9 @@
           <!-- Hari dan tanggal akan diisi oleh JavaScript -->
         </div>
         <div class="d-flex align-items-center">
-          <i class="bi bi-phone me-1"></i> Hubungi Kami Di +021123456789
+          <i class="bi bi-phone me-1"></i> (0372) 8281424 - 8283219
         </div>
+
       </div>
     </div><!-- End Top Bar -->
 
