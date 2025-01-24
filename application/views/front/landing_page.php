@@ -113,7 +113,7 @@
         </div><!-- End Carousel Item -->
 
         <div class="carousel-item">
-          <img src="template/assets/img/hero-carousel/graha.jpg" alt="">
+          <img src="template/assets/img/hero-carousel/graha.JPG" alt="">
           <div class="container">
             <h2>Graha Fitrah</h2>
             <p>Kantor Bupati Sumbawa Barat</p>
