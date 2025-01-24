@@ -154,7 +154,7 @@
           <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="100">
             <div class="service-item position-relative">
               <div class="icon"><i class="fas fa-heartbeat icon"></i></div>
-              <h4><a href="http://musrenbang.bappedasumbawabarat.com/" class="stretched-link">E-MUSRENBANG</a></h4>
+              <h4><a href="https://www.musrenbang.bappedasumbawabarat.com/" class="stretched-link">E-MUSRENBANG</a></h4>
               <p>Sistem Informasi Musyawarah Perencanaan Pembangunan</p>
             </div>
           </div><!-- End Service Item -->
