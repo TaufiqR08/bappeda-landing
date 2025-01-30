@@ -47,7 +47,7 @@
           <!-- Hari dan tanggal akan diisi oleh JavaScript -->
         </div>
         <div class="d-flex align-items-center">
-          <i class="bi bi-phone me-1"></i> (0372) 8281424 - 8283219
+          <i class="bi bi-telephone me-1"></i> (0372) 8281424 - 8283219
         </div>
 
       </div>
@@ -154,7 +154,7 @@
 
           <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="100">
             <div class="service-item position-relative">
-              <div class="icon"><i class="fas fa-heartbeat icon"></i></div>
+              <div class="icon"><i class="fas fa-users icon"></i></div>
               <h4><a href="https://www.musrenbang.bappedasumbawabarat.com/" class="stretched-link">E-MUSRENBANG</a></h4>
               <p>Sistem Informasi Musyawarah Perencanaan Pembangunan</p>
             </div>
@@ -162,7 +162,7 @@
 
           <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="200">
             <div class="service-item position-relative">
-              <div class="icon"><i class="fas fa-pills icon"></i></div>
+              <div class="icon"><i class="fas fa-project-diagram icon"></i></div>
               <h4><a href="" class="stretched-link">E-RENJA</a></h4>
               <p>Sistem Informasi Rencana Kerja Perangkat Daerah</p>
             </div>
@@ -170,7 +170,7 @@
 
           <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="300">
             <div class="service-item position-relative">
-              <div class="icon"><i class="fas fa-thermometer icon"></i></div>
+              <div class="icon"><i class="fas fa-bullseye icon"></i></div>
               <h4><a href="" class="stretched-link">RENSTRA</a></h4>
               <p>Sistem Informasi Rencana Startegis</p>
             </div>
@@ -178,7 +178,7 @@
 
           <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="400">
             <div class="service-item position-relative">
-              <div class="icon"><i class="fas fa-dna icon"></i></div>
+              <div class="icon"><i class="fas fa-info-circle icon"></i></div>
               <h4><a href="https://bappeda.ppid.sumbawabaratkab.go.id/" class="stretched-link">PPID</a></h4>
               <p>Pejabat Pengelola Informasi dan Dokumentasi</p>
             </div>
@@ -186,7 +186,7 @@
 
           <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="300">
             <div class="service-item position-relative">
-              <div class="icon"><i class="fas fa-thermometer icon"></i></div>
+              <div class="icon"><i class="fas fa-server icon"></i></div>
               <h4><a href="https://sipd-ri.kemendagri.go.id/auth/login" class="stretched-link">SIPD</a></h4>
               <p>Sistem Informasi Pemerintah Daerah</p>
             </div>
@@ -194,7 +194,7 @@
 
           <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="300">
             <div class="service-item position-relative">
-              <div class="icon"><i class="fas fa-thermometer icon"></i></div>
+              <div class="icon"><i class="fas fa-balance-scale icon"></i></div>
               <h4><a href="" class="stretched-link">SIPJ</a></h4>
               <p>Sistem Informasi Pertanggungjawaban</p>
             </div>
