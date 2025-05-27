@@ -163,7 +163,7 @@
           <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="200">
             <div class="service-item position-relative">
               <div class="icon"><i class="fas fa-project-diagram icon"></i></div>
-              <h4><a href="" class="stretched-link">DATAKU</a></h4>
+              <h4><a href="https://dataku.bappedasumbawabarat.com/" class="stretched-link">DATAKU</a></h4>
               <p>Sistem Pemutakhiran Data Kepesertaan BPJS</p>
             </div>
           </div><!-- End Service Item -->
