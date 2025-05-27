@@ -163,16 +163,8 @@
           <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="200">
             <div class="service-item position-relative">
               <div class="icon"><i class="fas fa-project-diagram icon"></i></div>
-              <h4><a href="" class="stretched-link">E-RENJA</a></h4>
-              <p>Sistem Informasi Rencana Kerja Perangkat Daerah</p>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="300">
-            <div class="service-item position-relative">
-              <div class="icon"><i class="fas fa-bullseye icon"></i></div>
-              <h4><a href="" class="stretched-link">RENSTRA</a></h4>
-              <p>Sistem Informasi Rencana Startegis</p>
+              <h4><a href="" class="stretched-link">DATAKU</a></h4>
+              <p>Sistem Pemutakhiran Data Kepesertaan BPJS</p>
             </div>
           </div><!-- End Service Item -->
 
